@@ -1,0 +1,1 @@
+The TeachEase website help the teachers in making their personalized feedbacks regarding students grades in the exam and to help the students by understand the problem and work on it. This website is in its very initial stage ,just a basic prototype futher we will add more feature except feedbacks, moreover the educators can also take the help of the ai ti improve teaching. 
